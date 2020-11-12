@@ -4,7 +4,11 @@ Here I'm adding 4 little mini-projects where we use HTML and CSS to design diffe
 
 ## Presentations
 
-![image]()
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/presentation_1.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/presentation_2.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/presentation_3.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/presentation_4.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/presentation_5.png)
 
 ## Knowledge Timeline
 
