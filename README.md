@@ -12,14 +12,22 @@ Here I'm adding 4 little mini-projects where we use HTML and CSS to design diffe
 
 ## Knowledge Timeline
 
-![image]()
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/timeline_1.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/timeline_2.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/timeline_3.png)
 
 ## Hamburger Menu
 
-![image]()
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/hamburger_1.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/hamburger_2.png)
 
 ## Dropdown Menu
 
-![image]()
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/drop_1.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/drop_2.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/drop_3.png)
+![image](https://raw.githubusercontent.com/jeffponce/Mini-Projects/main/img/drop_4.png)
+
+
 
 
